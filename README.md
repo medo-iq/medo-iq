@@ -2,8 +2,7 @@
 
 I'm MEDO.
 
-## Featured Projects
-- [Project 1]([link-to-project-here](https://github.com/medo-iq/Birthdate-Calculator)): Short description of the project
+
 
 
 ## Social Media
