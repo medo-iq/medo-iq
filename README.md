@@ -115,7 +115,7 @@
 
 <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="medo-iq GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medo-iq&theme=radical" alt="medo-iq GitHub Contribution"/>
   </a>
 </p>
 
