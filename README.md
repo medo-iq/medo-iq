@@ -262,25 +262,158 @@ A lightweight backend/API project implemented in Go.
 
 ---
 
-## Recent Work & Collaboration
+---
 
-### iPhone Duo Design Skill
+## GitHub Activity
 
-Contributing to an open-source, technology-neutral agent skill for adaptive iPhone Duo interface design and implementation guidance.
+<div align="center">
 
-The project combines official Apple platform guidance, provenance-aware technical references, adaptive-layout workflows, and supplementary community design material.
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=medo-iq&theme=github-dark&hide_border=true&area=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=medo-iq&theme=github-light&hide_border=true&area=true"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=medo-iq&theme=github-light&hide_border=true&area=true"
+    width="100%"
+    alt="Ahmed Majid GitHub activity graph"
+  />
+</picture>
 
-<a href="https://github.com/m238d211/iphone-duo-design-skill">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="iPhone Duo Design Skill" />
+</div>
+
+---
+
+## Development Overview
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=medo-iq&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=medo-iq&show_icons=true&hide_border=true&theme=default&include_all_commits=true"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=medo-iq&show_icons=true&hide_border=true"
+    alt="Ahmed Majid GitHub statistics"
+  />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=medo-iq&layout=compact&hide_border=true&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=medo-iq&layout=compact&hide_border=true&theme=default"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=medo-iq&layout=compact&hide_border=true"
+    alt="Most used languages"
+  />
+</picture>
+
+</div>
+
+---
+
+## Contribution Streak
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=medo-iq&theme=github-dark-blue&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=medo-iq&theme=default&hide_border=true"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=medo-iq&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</picture>
+
+</div>
+
+---
+
+## Contribution Map
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/medo-iq/medo-iq/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/medo-iq/medo-iq/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/medo-iq/medo-iq/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub contribution snake"
+  />
+</picture>
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ahmed-majid-437256237">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-### Babil IT
+<a href="https://x.com/od_331">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" width="28" height="28" alt="X" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-Working on software, digital products, application development, UI/UX, and technical solutions through **Babil IT**.
+<a href="https://od_331.t.me">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/telegram.svg" width="28" height="28" alt="Telegram" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/od_331">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg" width="28" height="28" alt="Instagram" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://babil-it.com">
-  <img src="https://img.shields.io/badge/babil--it.com-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Babil IT Website" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" width="28" height="28" alt="Website" />
 </a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+**Ahmed Majid**
+
+Software Engineer · Flutter Developer · UI/UX Designer · Open Source
+
+</div>
 
 ---
 
