@@ -56,14 +56,14 @@ My work also spans backend services, developer tooling, security-aware engineeri
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/medo-iq/medo-iq/output/github-dashboard-dark.svg"
+    srcset="https://raw.githubusercontent.com/medo-iq/medo-iq/refs/heads/output/github-dashboard-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/medo-iq/medo-iq/output/github-dashboard-light.svg"
+    srcset="https://raw.githubusercontent.com/medo-iq/medo-iq/refs/heads/output/github-dashboard-light.svg"
   />
   <img
-    src="https://raw.githubusercontent.com/medo-iq/medo-iq/output/github-dashboard-light.svg"
+    src="https://raw.githubusercontent.com/medo-iq/medo-iq/refs/heads/output/github-dashboard-light.svg"
     width="100%"
     alt="Ahmed Majid GitHub activity dashboard"
   />
