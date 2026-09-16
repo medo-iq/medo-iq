@@ -1,268 +1,53 @@
-<div align="center">
-
-# Ahmed Majid
-
-### Software Engineer · Flutter Developer · UI/UX Designer · Open Source
-
-Building reliable mobile experiences, adaptive interfaces, developer tools, backend integrations, and security-focused software.
-
-<br />
-
-<a href="https://babil-it.com">
-  <img src="https://img.shields.io/badge/Babil%20IT-Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Babil IT" />
-</a>
-<a href="https://www.linkedin.com/in/ahmed-majid-437256237">
-  <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Majid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/od_331">
-  <img src="https://img.shields.io/badge/X-@od__331-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://od_331.t.me">
-  <img src="https://img.shields.io/badge/Telegram-@od__331-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-</div>
-
----
+<table>
+  <tr>
+    <td width="170" align="center" valign="middle">
+      <a href="https://github.com/medo-iq">
+        <img src="./assets/ahmed-majid-avatar.png" width="150" height="150" alt="Portrait of Ahmed Majid" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h1><code>Ahmed Majid</code></h1>
+      <p><strong>Software Engineer · Flutter Developer · UI/UX Designer · Open Source</strong></p>
+      <p>Building adaptive mobile experiences, developer tools, and reliable software systems.</p>
+      <p>
+        <a href="https://babil-it.com"><img src="https://img.shields.io/badge/Website-babil--it.com-0969DA?style=flat-square" alt="Ahmed Majid website" /></a>
+        <a href="https://www.linkedin.com/in/ahmed-majid-437256237"><img src="https://img.shields.io/badge/LinkedIn-Ahmed_Majid-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Ahmed Majid on LinkedIn" /></a>
+        <a href="https://x.com/od_331"><img src="https://img.shields.io/badge/X-@od__331-24292F?style=flat-square&amp;logo=x&amp;logoColor=white" alt="Ahmed Majid on X" /></a>
+        <a href="https://od_331.t.me"><img src="https://img.shields.io/badge/Telegram-@od__331-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Ahmed Majid on Telegram" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## About
 
-I am **Ahmed Majid**, a software engineer focused on building modern mobile applications, adaptive user interfaces, backend-connected products, and developer-focused tools.
+I build mobile applications and adaptive interfaces, with an emphasis on maintainable Flutter architecture, clear interaction design, and dependable API integrations.
 
-My work spans application engineering, UI/UX design, software architecture, API integration, cybersecurity, and open-source development.
-
-I primarily work on products where interface quality and engineering quality need to coexist: responsive mobile experiences, realtime systems, scalable application architecture, platform adaptation, and highly polished user-facing features.
-
-My current interests include:
-
-- Mobile application engineering
-- Flutter architecture and adaptive interfaces
-- UI/UX systems and developer-ready design
-- REST, GraphQL, WebSocket, and realtime integrations
-- Backend and API engineering
-- Application security and cybersecurity
-- Cross-platform architecture
-- Apple platform design and adaptive interfaces
-- AI-assisted software engineering and agent workflows
-- Open-source tools and technical documentation
-
----
+My work also spans backend services, developer tooling, security-aware engineering, and open-source projects where product quality and implementation quality need to stay aligned.
 
 ## Current Focus
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Focus | Working areas |
+| --- | --- |
+| **Mobile Engineering** | Flutter · Dart · Adaptive UI · Application architecture |
+| **Product / UI Design** | Design systems · Responsive layouts · Interaction design |
+| **Backend & APIs** | REST · GraphQL · WebSockets · Go · Python |
+| **Security / Systems** | Secure design · Linux · Networking · Deployment |
 
-### Mobile Engineering
+## Core Stack
 
-Building maintainable and responsive mobile applications with a strong focus on:
-
-- Flutter
-- Dart
-- Adaptive layouts
-- State management
-- Realtime applications
-- API-driven architecture
-- Platform interoperability
-- Performance-oriented UI
-
-</td>
-<td width="50%" valign="top">
-
-### Product Design
-
-Designing interfaces that translate cleanly into production code:
-
-- UI/UX systems
-- Figma
-- Responsive design
-- Design systems
-- Mobile interaction patterns
-- Developer handoff
-- Accessibility-aware layouts
-- Adaptive device experiences
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Backend & Infrastructure
-
-Working across application services and integration layers:
-
-- Go
-- Python
-- REST APIs
-- GraphQL
-- WebSockets
-- Firebase
-- MongoDB
-- Docker
-- Linux
-- Cloud deployment
-
-</td>
-<td width="50%" valign="top">
-
-### Security
-
-Maintaining a strong security engineering background across:
-
-- Network security
-- Penetration testing
-- Security research
-- Threat analysis
-- Assessment methodologies
-- Secure application design
-- Linux security tooling
-
-</td>
-</tr>
-</table>
-
----
-
-## Technology Stack
-
-### Mobile & Application Development
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42" height="42" alt="Dart" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="42" height="42" alt="Swift" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="42" height="42" alt="Apple" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" />
-</div>
-
-### Backend & Programming
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" height="42" alt="Go" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" height="42" alt="Bash" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="42" height="42" alt="GraphQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="42" height="42" alt="Firebase" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" />
-</div>
-
-### Engineering & Infrastructure
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="42" height="42" alt="Ubuntu" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="42" alt="AWS" />
-</div>
-
-### Design & Product
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" height="42" alt="Canva" />
-</div>
-
----
-
-## Selected Open-Source Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Flutter Action Menu
-
-A Flutter-focused project exploring reusable interaction and action-menu patterns.
-
-[View repository](https://github.com/medo-iq/flutter_action_menu)
-
-</td>
-<td width="50%" valign="top">
-
-### Flutter Architecture Demo
-
-A practical Flutter architecture reference focused on application structure and maintainability.
-
-[View repository](https://github.com/medo-iq/FLUTTER-ARCHITECHTURE-DEMO)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Flutter State Management
-
-Examples and experiments around application state-management approaches in Flutter.
-
-[View repository](https://github.com/medo-iq/FLUTTER-STATE-MANAGEMENT)
-
-</td>
-<td width="50%" valign="top">
-
-### Flutter Responsive Dashboard
-
-A responsive Flutter dashboard and admin-panel implementation.
-
-[View repository](https://github.com/medo-iq/Flutter-Responsive-Admin-Panel-or-Dashboard)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ESP32 Wi-Fi Penetration Tool
-
-Security-focused experimentation involving ESP32 and wireless-network assessment.
-
-[View repository](https://github.com/medo-iq/esp32-wifi-penetration-tool)
-
-</td>
-<td width="50%" valign="top">
-
-### Simple Go API
-
-A lightweight backend/API project implemented in Go.
-
-[View repository](https://github.com/medo-iq/simple-api-golang)
-
-</td>
-</tr>
-</table>
-
----
-
----
+| Area | Technologies and practices |
+| --- | --- |
+| **Mobile** | Flutter · Dart · Swift · React Native · Android · Apple platforms |
+| **Backend** | Go · Node.js · NestJS · Fastify · Python |
+| **Web** | JavaScript · TypeScript · React · Next.js · Tailwind CSS |
+| **Data** | PostgreSQL · Neon · MongoDB · SQLite · Firebase · Supabase |
+| **APIs & Realtime** | REST · GraphQL · WebSockets · Agora RTC |
+| **Infrastructure** | Linux · Docker · AWS · Vercel · GitHub Actions |
+| **Security** | Application Security · API Security · JWT · RBAC · Penetration Testing |
+| **Design** | Figma · UI/UX · Design Systems · Adaptive UI · Rive · After Effects · Blender |
+| **Engineering** | C++ · Bash · Git · GitHub · VS Code · Clean Architecture · SOLID · Offline-First · Realtime Systems · CI/CD |
+| **AI Engineering** | Codex · Claude Code · GitHub Copilot · Cursor · MCP |
 
 ## GitHub Activity
 
@@ -271,159 +56,39 @@ A lightweight backend/API project implemented in Go.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=medo-iq&theme=github-dark&hide_border=true&area=true"
+    srcset="https://raw.githubusercontent.com/medo-iq/medo-iq/output/github-dashboard-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=medo-iq&theme=github-light&hide_border=true&area=true"
+    srcset="https://raw.githubusercontent.com/medo-iq/medo-iq/output/github-dashboard-light.svg"
   />
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=medo-iq&theme=github-light&hide_border=true&area=true"
+    src="https://raw.githubusercontent.com/medo-iq/medo-iq/output/github-dashboard-light.svg"
     width="100%"
-    alt="Ahmed Majid GitHub activity graph"
+    alt="Ahmed Majid GitHub activity dashboard"
   />
 </picture>
 
 </div>
-
----
-
-## Development Overview
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=medo-iq&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=medo-iq&show_icons=true&hide_border=true&theme=default&include_all_commits=true"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=medo-iq&show_icons=true&hide_border=true"
-    alt="Ahmed Majid GitHub statistics"
-  />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=medo-iq&layout=compact&hide_border=true&theme=github_dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=medo-iq&layout=compact&hide_border=true&theme=default"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=medo-iq&layout=compact&hide_border=true"
-    alt="Most used languages"
-  />
-</picture>
-
-</div>
-
----
-
-## Contribution Streak
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=medo-iq&theme=github-dark-blue&hide_border=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=medo-iq&theme=default&hide_border=true"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=medo-iq&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</picture>
-
-</div>
-
----
-
-## Contribution Map
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/medo-iq/medo-iq/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/medo-iq/medo-iq/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/medo-iq/medo-iq/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="GitHub contribution snake"
-  />
-</picture>
-
-</div>
-
----
 
 ## Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ahmed-majid-437256237">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://x.com/od_331">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" width="28" height="28" alt="X" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://od_331.t.me">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/telegram.svg" width="28" height="28" alt="Telegram" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/od_331">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg" width="28" height="28" alt="Instagram" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://babil-it.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" width="28" height="28" alt="Website" />
-</a>
+<a href="https://www.linkedin.com/in/ahmed-majid-437256237"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="Ahmed Majid on LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/od_331"><img src="https://cdn.simpleicons.org/x/8C959F" width="28" height="28" alt="Ahmed Majid on X" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://od_331.t.me"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="28" height="28" alt="Ahmed Majid on Telegram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/od_331"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" alt="Ahmed Majid on Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://babil-it.com"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="28" height="28" alt="Ahmed Majid website" /></a>
 
 </div>
-
-<br />
 
 <div align="center">
 
 **Ahmed Majid**
 
-Software Engineer · Flutter Developer · UI/UX Designer · Open Source
+Software Engineer · Flutter Developer · UI/UX Designer
+
+[@medo-iq](https://github.com/medo-iq)
 
 </div>
-
----
-
-## Engineering Principles
-
-```text
-Build for maintainability.
-Design for real users.
-Preserve architecture before replacing it.
-Prefer verified APIs over assumptions.
-Treat security as part of the system, not an afterthought.
-Keep design and implementation aligned.
-Document decisions that future developers need to understand.

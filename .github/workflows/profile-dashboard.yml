@@ -1,0 +1,67 @@
+name: Profile Dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 2 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-dashboard.yml"
+      - "scripts/**"
+      - "package.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-dashboard
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    if: github.repository == 'medo-iq/medo-iq'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          package-manager-cache: false
+
+      - name: Generate dashboard
+        run: npm run generate:dashboard
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: medo-iq
+
+      - name: Publish dashboard assets
+        shell: bash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          publish_directory="$(mktemp -d)"
+          cp dist/github-dashboard-light.svg "$publish_directory/"
+          cp dist/github-dashboard-dark.svg "$publish_directory/"
+
+          cd "$publish_directory"
+          git init --initial-branch=output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-dashboard-light.svg github-dashboard-dark.svg
+          git commit -m "Update profile dashboard"
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+
+          authorization="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 | tr -d '\n')"
+          git -c "http.https://github.com/.extraheader=AUTHORIZATION: basic $authorization" \
+            push --force origin HEAD:output
