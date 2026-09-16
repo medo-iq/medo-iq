@@ -36,18 +36,112 @@ My work also spans backend services, developer tooling, security-aware engineeri
 
 ## Core Stack
 
-| Area | Technologies and practices |
-| --- | --- |
-| **Mobile** | Flutter · Dart · Swift · React Native · Android · Apple platforms |
-| **Backend** | Go · Node.js · NestJS · Fastify · Python |
-| **Web** | JavaScript · TypeScript · React · Next.js · Tailwind CSS |
-| **Data** | PostgreSQL · Neon · MongoDB · SQLite · Firebase · Supabase |
-| **APIs & Realtime** | REST · GraphQL · WebSockets · Agora RTC |
-| **Infrastructure** | Linux · Docker · AWS · Vercel · GitHub Actions |
-| **Security** | Application Security · API Security · JWT · RBAC · Penetration Testing |
-| **Design** | Figma · UI/UX · Design Systems · Adaptive UI · Rive · After Effects · Blender |
-| **Engineering** | C++ · Bash · Git · GitHub · VS Code · Clean Architecture · SOLID · Offline-First · Realtime Systems · CI/CD |
-| **AI Engineering** | Codex · Claude Code · GitHub Copilot · Cursor · MCP |
+**Mobile**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38" height="38" alt="Flutter" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="38" height="38" alt="Dart" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="38" height="38" alt="Swift" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="38" height="38" alt="Android" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apple/8C959F" width="38" height="38" alt="Apple platforms" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/expo/8C959F" width="38" height="38" alt="React Native" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="38" height="38" alt="Go" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="38" height="38" alt="NestJS" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastify/8C959F" width="38" height="38" alt="Fastify" />
+</p>
+
+**Web**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/8C959F" width="38" height="38" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="38" height="38" alt="Tailwind CSS" />
+</p>
+
+**Data**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/neon/00E599" width="38" height="38" alt="Neon" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="38" height="38" alt="SQLite" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="38" height="38" alt="Firebase" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="38" height="38" alt="Supabase" />
+</p>
+
+**APIs & Realtime**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="38" height="38" alt="REST APIs" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="38" height="38" alt="GraphQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/socketdotio/8C959F" width="38" height="38" alt="WebSockets" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/agora/099DFD" width="38" height="38" alt="Agora RTC" />
+</p>
+
+**Infrastructure**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="38" height="38" alt="Bash" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/8C959F" width="38" height="38" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" height="38" alt="Visual Studio Code" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/8C959F" width="38" height="38" alt="Vercel" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="46" height="38" alt="Amazon Web Services" />
+</p>
+
+**Security**
+
+<p>
+  <img src="https://cdn.simpleicons.org/owasp/8C959F" width="38" height="38" alt="Application Security" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kong/003459" width="38" height="38" alt="API Security" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/8C959F" width="38" height="38" alt="JWT" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/auth0/EB5424" width="38" height="38" alt="RBAC and identity" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" width="38" height="38" alt="Penetration Testing" />
+</p>
+
+**Design**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38" height="38" alt="Figma" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/materialdesign/757575" width="38" height="38" alt="UI/UX" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/storybook/FF4785" width="38" height="38" alt="Design Systems" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" height="38" alt="Adaptive UI" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/rive/8C959F" width="38" height="38" alt="Rive" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="38" height="38" alt="After Effects" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="38" height="38" alt="Blender" />
+</p>
+
+**Engineering**
+
+<p>
+  <img src="https://cdn.simpleicons.org/uml/8C959F" width="38" height="38" alt="Clean Architecture" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/solid/5E5E5E" width="38" height="38" alt="SOLID principles" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pwa/5A0FC8" width="38" height="38" alt="Offline-First" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/webrtc/333333" width="38" height="38" alt="Realtime Systems" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="38" height="38" alt="GitHub Actions and CI/CD" />
+</p>
+
+**AI Engineering**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex-color.svg" width="38" height="38" alt="Codex" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/8C959F" width="38" height="38" alt="Claude Code" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubcopilot/8C959F" width="38" height="38" alt="GitHub Copilot" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cursor/8C959F" width="38" height="38" alt="Cursor" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol/8C959F" width="38" height="38" alt="Model Context Protocol" />
+</p>
 
 ## GitHub Activity
 
